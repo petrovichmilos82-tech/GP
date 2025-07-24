@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gak & Petrovic Comms</title>
+  <meta http-equiv="refresh" content="5; url=https://www.linkedin.com/company/gak-petrovic" />
+  <style>
+    body {
+      margin: 0;
+      background: #111;
+      color: #fff;
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+    img {
+      max-width: 250px;
+      margin-bottom: 24px;
+    }
+    .small {
+      font-size: 0.8em;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://www.canva.com/design/DAGp8GI_O3c/18EypGthQQ5JgBDkQ-UzVw/view?utm_content=DAGp8GI_O3c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h183f9f1846" alt="Gak & Petrovic Logo" />
+  <h1>Gak & Petrovic Comms</h1>
+  <p>We’re building something impactful.</p>
+  <p class="small">Redirecting to <a href="https://www.linkedin.com/company/gak-petrovic">LinkedIn</a> in 5 seconds…</p>
+</body>
+</html>
