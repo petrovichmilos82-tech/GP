@@ -18,18 +18,17 @@
       height: 100vh;
       text-align: center;
     }
-    img {
-      max-width: 250px;
-      margin-bottom: 24px;
-    }
     .small {
       font-size: 0.8em;
       opacity: 0.6;
     }
+    a {
+      color: #fff;
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
-  <img src="https://www.canva.com/design/DAGp8GI_O3c/18EypGthQQ5JgBDkQ-UzVw/view?utm_content=DAGp8GI_O3c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h183f9f1846" alt="Gak & Petrovic Logo" />
   <h1>Gak & Petrovic Comms</h1>
   <p>We’re building something impactful.</p>
   <p class="small">Redirecting to <a href="https://www.linkedin.com/company/gak-petrovic">LinkedIn</a> in 5 seconds…</p>
